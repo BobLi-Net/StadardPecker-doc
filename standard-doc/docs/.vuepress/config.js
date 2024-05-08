@@ -12,10 +12,12 @@ export default defineUserConfig({
     navbar: [{
       text: '首页',
       link: '/',
-    },{
+    },
+    {
       text: '快速上手',
       link: '/quikly-start',
-    },{
+    }, 
+    {
       text: '使用说明',
       children: [        
        

@@ -7,10 +7,17 @@ actions:
     link: /quikly-start 
     type: primary
 
+  - text: 操作指南
+    link: /guide/
+    type: primary
+
+  - text: 常见问题
+    link: /faq/
+    type: primary
+
   - text: 官方网站
     link: http://www.bzyxxcx.com
     type: secondary
-
 features:
   - title: 极致体验
     details: 以插件形式植入Word/WPS/AutoCAD，即用即查，结果分类可定位，操作高效便捷。

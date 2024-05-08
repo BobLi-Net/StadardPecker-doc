@@ -1,7 +1,6 @@
 export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
-  ["/get-started.html", { loader: () => import(/* webpackChunkName: "get-started.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/get-started.html.js"), meta: {"title":"Get Started"} }],
   ["/quikly-start.html", { loader: () => import(/* webpackChunkName: "quikly-start.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/quikly-start.html.js"), meta: {"title":"快速上手"} }],
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"首页"} }],
   ["/faq/cad.html", { loader: () => import(/* webpackChunkName: "cad.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/faq/cad.html.js"), meta: {"title":"CAD及同类产品相关问题"} }],
@@ -11,7 +10,7 @@ export const routes = Object.fromEntries([
   ["/faq/wps.html", { loader: () => import(/* webpackChunkName: "wps.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/faq/wps.html.js"), meta: {"title":"WPS插件相关问题"} }],
   ["/guide/company.html", { loader: () => import(/* webpackChunkName: "company.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/guide/company.html.js"), meta: {"title":"企业自主管理"} }],
   ["/guide/contract.html", { loader: () => import(/* webpackChunkName: "contract.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/guide/contract.html.js"), meta: {"title":"联系我们"} }],
-  ["/guide/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/guide/index.html.js"), meta: {"title":"使用说明"} }],
+  ["/guide/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/guide/index.html.js"), meta: {"title":"使用说明索引"} }],
   ["/guide/setup.html", { loader: () => import(/* webpackChunkName: "setup.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/guide/setup.html.js"), meta: {"title":"安装及卸载详情"} }],
   ["/guide/usage.html", { loader: () => import(/* webpackChunkName: "usage.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/guide/usage.html.js"), meta: {"title":"使用指南"} }],
   ["/guide/user.html", { loader: () => import(/* webpackChunkName: "user.html" */"D:/Works/Project/StandardPecker/doc/standard-doc/docs/.vuepress/.temp/pages/guide/user.html.js"), meta: {"title":"个人信息管理"} }],

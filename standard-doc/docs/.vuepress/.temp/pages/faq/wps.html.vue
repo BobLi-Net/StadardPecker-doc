@@ -52,12 +52,13 @@
 <p>注意：启用时，弹出的确认提醒，蓝色按钮是禁用，灰白色的才是启用。</p>
 </blockquote>
 <p><img src="http://doc.bzyxxcx.com/imgs/WPS加载项2.png" alt=""></p>
+<p><img src="/imgs/wps0.jpg" alt=""></p>
 <ol start="4">
 <li>查看是否已经解决，如未解决，您可以继续进行下一步。</li>
 </ol>
 <h3 id="第三步-安装必备的运行环境" tabindex="-1"><a class="header-anchor" href="#第三步-安装必备的运行环境"><span>第三步：安装必备的运行环境</span></a></h3>
 <ol>
-<li>下载“微软常用运行库合集”<a href="http://www.microsoft.com/zh-cn/download/details.aspx?id=26768" target="_blank" rel="noopener noreferrer">下载地址<ExternalLinkIcon/></a></li>
+<li>下载“微软常用运行库合集”<a href="https://zhuomuniao-1316338950.cos.ap-beijing.myqcloud.com/weiruanheji.exe" target="_blank" rel="noopener noreferrer">下载地址<ExternalLinkIcon/></a></li>
 <li>安装运行库，注意选择最后一项。</li>
 </ol>
 <p><img src="http://doc.bzyxxcx.com/imgs/运行库合集.png" alt=""></p>

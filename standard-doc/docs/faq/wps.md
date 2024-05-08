@@ -44,12 +44,13 @@
 
 ![](http://doc.bzyxxcx.com/imgs/WPS加载项2.png)
 
- 
+![](/imgs/wps0.jpg)
+
 4. 查看是否已经解决，如未解决，您可以继续进行下一步。
 
 ### 第三步：安装必备的运行环境
 
-1. 下载“微软常用运行库合集”[下载地址](http://www.microsoft.com/zh-cn/download/details.aspx?id=26768)
+1. 下载“微软常用运行库合集”[下载地址](https://zhuomuniao-1316338950.cos.ap-beijing.myqcloud.com/weiruanheji.exe)
 2. 安装运行库，注意选择最后一项。
 
 ![](http://doc.bzyxxcx.com/imgs/运行库合集.png)
