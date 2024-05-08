@@ -5,7 +5,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'zh-CN',
   title: '长江设计集团啄木鸟标准法规审查系统',
-  description: '操作说明/使用文档/常见问题',
+  description: '技术支持：186 7866 8510（李）（微信同号）',
 
   theme: defaultTheme({
     logo: 'http://www.bzyxxcx.com/logo_.png',
@@ -21,8 +21,7 @@ export default defineUserConfig({
        
         '/guide/setup.md',
         '/guide/usage.md',
-        '/guide/user.md',
-        '/guide/company.md',
+        '/guide/user.md', 
         '/guide/contract.md',
         '/guide/white-pager.md',
       ],

@@ -17,7 +17,7 @@
 
 ![](http://doc.bzyxxcx.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
 
-2. 如您没有账号，[点击这里直接进行注册](http://www.bzyxxcx.com/account/reg) 或[了解如何进行注册？][注册账户]
+2. 如您没有账号，[点击这里直接进行注册](http://10.6.188.191:8090) 或[了解如何进行注册？][注册账户]
 
 ![](/imgs/login1.png)
 
@@ -46,11 +46,11 @@
  
  
 
-[官网下载]: http://www.bzyxxcx.com
+[官网下载]: http://10.6.188.191:8090/zhuomuniao.rar
 [注册账户]: /guide/usage.html#第一步-注册账户
 [常见问题]: /faq/word.html
 [访问官网]: http://www.bzyxxcx.com
 [详细安装]: /guide/setup.html
-[企业授权]: http://www.bzyxxcx.com/account
-[详细注册]: http://www.bzyxxcx.com/account
+[企业授权]: http://10.6.188.191:8090
+[详细注册]: http://10.6.188.191:8090
 [杀毒软件提示]: http://www.bzyxxcx.com/faq/

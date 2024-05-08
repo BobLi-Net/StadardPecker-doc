@@ -8,7 +8,7 @@
 </ol>
 <h2 id="第一步-安装" tabindex="-1"><a class="header-anchor" href="#第一步-安装"><span>第一步：安装</span></a></h2>
 <ol>
-<li>通过<a href="http://www.bzyxxcx.com" target="_blank" rel="noopener noreferrer">官网下载<ExternalLinkIcon/></a>安装程序，双击安装，根据提示完成即可。</li>
+<li>通过<a href="http://10.6.188.191:8090/zhuomuniao.rar" target="_blank" rel="noopener noreferrer">官网下载<ExternalLinkIcon/></a>安装程序，双击安装，根据提示完成即可。</li>
 <li>请注意安装过程如遇杀毒软件提醒屏蔽，请务必选择“<mark>允许程序所有操作</mark>”。</li>
 </ol>
 <h2 id="第二步-运行-登录" tabindex="-1"><a class="header-anchor" href="#第二步-运行-登录"><span>第二步：运行/登录</span></a></h2>
@@ -17,7 +17,7 @@
 </ol>
 <p><img src="http://doc.bzyxxcx.com/imgs/桌面图标.png" alt=""></p>
 <ol start="2">
-<li>如您没有账号，<a href="http://www.bzyxxcx.com/account/reg" target="_blank" rel="noopener noreferrer">点击这里直接进行注册<ExternalLinkIcon/></a> 或<RouteLink to="/guide/usage.html#%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E8%B4%A6%E6%88%B7">了解如何进行注册？</RouteLink></li>
+<li>如您没有账号，<a href="http://10.6.188.191:8090" target="_blank" rel="noopener noreferrer">点击这里直接进行注册<ExternalLinkIcon/></a> 或<RouteLink to="/guide/usage.html#%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E8%B4%A6%E6%88%B7">了解如何进行注册？</RouteLink></li>
 </ol>
 <p><img src="/imgs/login1.png" alt=""></p>
 <ol start="3">

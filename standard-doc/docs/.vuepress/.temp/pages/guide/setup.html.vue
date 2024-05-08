@@ -9,7 +9,7 @@
 </ul>
 <h2 id="下载安装程序" tabindex="-1"><a class="header-anchor" href="#下载安装程序"><span>下载安装程序</span></a></h2>
 <ul>
-<li>访问<a href="http://www.bzyxxcx.com/" target="_blank" rel="noopener noreferrer">官网<ExternalLinkIcon/></a>下载安装程序</li>
+<li>访问<a href="http://10.6.188.191:8090/zhuomuniao.rar" target="_blank" rel="noopener noreferrer">官网<ExternalLinkIcon/></a>下载安装程序</li>
 <li>下载完成后，双击运行安装程序</li>
 </ul>
 <h2 id="运行安装" tabindex="-1"><a class="header-anchor" href="#运行安装"><span>运行安装</span></a></h2>

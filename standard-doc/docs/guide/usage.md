@@ -4,59 +4,22 @@
 ## 第一步：注册账户
 * 我们提供[微信扫码注册]和[网站注册]两种注册方式，任选其一即可。
 * 如您已有账户，可直接进入登录步骤
-
-### 微信扫码注册
-
-
- 1. 通过桌面快捷方式运行程序.
-
-![](http://doc.bzyxxcx.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
-
- 2. 使用微信扫码登录界面二维码
-
-<img src="http://doc.bzyxxcx.com/imgs/登录1.png" width="500"> 
-
- 3. 关注公众号并点击“没有账户，注册新用户” 
-
-<img src="http://doc.bzyxxcx.com/imgs/微信注册.jpg" width="500"> 
  
- 4. 根据提示输入手机号等个人信息并点击“注册新用户”
- 
-
  
 ### 网站注册
 
-1. 打开[官方网站](http://www.bzyxxcx.com)，点击“[用户登录/注册](http://www.bzyxxcx.com/account/login)” 
-2. 点击“[没有账户快速注册](http://www.bzyxxcx.com/account/reg)”
-![](/imgs/wzzc.png)
-3. 根据提示输入手机号等个人信息并点击“马上注册”
-4. 注册成功后，通过桌面快捷方式打开“啄木鸟主程序”通过账号密码方式登录。
+打开[用户中心](http://www.bzyxxcx.com)，按照提示完成注册
+ 
 
-<img src="http://doc.bzyxxcx.com/imgs/登录2.png" width="500"> 
+<img src="http://doc.bzyxxcx.com/imgs/cjzc.png" width="500"> 
 
 
 ## 第二步：登录
+ 
 
-### 方式1：扫码登录
+### 账号密码登录
 
-1. 首先您需要确保已有账户，如您还没有账户请参照[微信扫码注册]步骤。
-2.  点击桌面啄木鸟红色图标，即可打开软件登录界面。
-
-![](http://doc.bzyxxcx.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
-
-3. 通过微信扫码界面中的二维码，扫描后即可登录。
-
-<img src="http://doc.bzyxxcx.com/imgs/登录1.png" width="500">
-
-4. 如果您的账号没有绑定二维码，请参照下图完成账号绑定。
-
-<img src="/imgs/bdwx.png" width="500">
-
-5. 注册成功后，通过桌面快捷方式打开“啄木鸟主程序”再次尝试登录。
-
-### 方式2：账号密码登录
-
-1. 首先您需要确保已有账户，如您还没有账户请参照[微信扫码注册]步骤。
+1. 首先您需要确保已有账户，如您还没有账户请参照[注册](http://10.6.188.191:8090/)步骤。
 2.  点击桌面啄木鸟红色图标，即可打开软件登录界面。
 
 ![](http://doc.bzyxxcx.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
