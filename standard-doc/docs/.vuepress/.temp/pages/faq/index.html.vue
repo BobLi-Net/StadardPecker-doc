@@ -6,6 +6,8 @@
 <li><RouteLink to="/faq/wps.html">如果您使用的WPS，请点击这里</RouteLink></li>
 <li><RouteLink to="/faq/cad.html">如果您使用的CAD、中望或同类产品，请点击这里</RouteLink></li>
 </ul>
+<p><mark>您可以直接联系售后支持</mark></p>
+<p>李永波：186 7866 8510（微信同号）</p>
 </div></template>
 
 

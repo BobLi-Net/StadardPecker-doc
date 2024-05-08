@@ -1,18 +1,10 @@
 # 联系我们
 
-## 商务/售后服务
-
-   
-<img src="http://doc.bzyxxcx.com/imgs/wechat1.png" width="150"> | <img src="http://doc.bzyxxcx.com/imgs/wechat2.png" width="150"> | <img src="http://doc.bzyxxcx.com/imgs/gongzhonghao.png" width="150"> 
--|-|-
-13156072756（封）| 13562294656（刘）| 标准啄木鸟公众号
-
-- 邮箱：bzfgzmn#163.com （需要把#号更换成@号）
-- 官网：[http://www.bzyxxcx.com](http://www.bzyxxcx.com)
-
 ## 技术支持
 
-请直接联系商务人员。
+如果您在使用过程中遇到任何问题，请随时联系我们。
+
+李永波：186 7866 8510（微信同号）
 
 ## 问题反馈
 

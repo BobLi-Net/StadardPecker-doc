@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  title: '啄木鸟标准法规审查系统',
+  title: '长江设计集团啄木鸟标准法规审查系统',
   description: '操作说明/使用文档/常见问题',
 
   theme: defaultTheme({
