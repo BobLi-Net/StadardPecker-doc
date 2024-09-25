@@ -28,7 +28,7 @@
 
 1. 打开[官方网站](http://www.bzyxxcx.com)，点击“[用户登录/注册](http://www.bzyxxcx.com/account/login)” 
 2. 点击“[没有账户快速注册](http://www.bzyxxcx.com/account/reg)”
-![](/imgs/wzzc.png)
+![](http://doc.bzyxxcx.com/imgs/wzzc.png)
 3. 根据提示输入手机号等个人信息并点击“马上注册”
 4. 注册成功后，通过桌面快捷方式打开“啄木鸟主程序”通过账号密码方式登录。
 
@@ -50,7 +50,7 @@
 
 4. 如果您的账号没有绑定二维码，请参照下图完成账号绑定。
 
-<img src="/imgs/bdwx.png" width="500">
+<img src="http://doc.bzyxxcx.com/imgs/bdwx.png" width="500">
 
 5. 注册成功后，通过桌面快捷方式打开“啄木鸟主程序”再次尝试登录。
 
@@ -81,7 +81,7 @@
 
 5. 输入企业账户信息，点击“激活”,提示激活成功。<mark>请注意不要有空格</mark>
  
-<img src="/imgs/JIHUO.png" width="500">
+<img src="http://doc.bzyxxcx.com/imgs/JIHUO.png" width="500">
 
 6. 激活成功后，点击报告即可使用。
 

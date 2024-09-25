@@ -24,7 +24,7 @@
 <ol>
 <li>打开<a href="http://www.bzyxxcx.com" target="_blank" rel="noopener noreferrer">官方网站<ExternalLinkIcon/></a>，点击“<a href="http://www.bzyxxcx.com/account/login" target="_blank" rel="noopener noreferrer">用户登录/注册<ExternalLinkIcon/></a>”</li>
 <li>点击“<a href="http://www.bzyxxcx.com/account/reg" target="_blank" rel="noopener noreferrer">没有账户快速注册<ExternalLinkIcon/></a>”
-<img src="/imgs/wzzc.png" alt=""></li>
+<img src="http://doc.bzyxxcx.com/imgs/wzzc.png" alt=""></li>
 <li>根据提示输入手机号等个人信息并点击“马上注册”</li>
 <li>注册成功后，通过桌面快捷方式打开“啄木鸟主程序”通过账号密码方式登录。</li>
 </ol>
@@ -43,7 +43,7 @@
 <ol start="4">
 <li>如果您的账号没有绑定二维码，请参照下图完成账号绑定。</li>
 </ol>
-<img src="/imgs/bdwx.png" width="500">
+<img src="http://doc.bzyxxcx.com/imgs/bdwx.png" width="500">
 <ol start="5">
 <li>注册成功后，通过桌面快捷方式打开“啄木鸟主程序”再次尝试登录。</li>
 </ol>
@@ -72,7 +72,7 @@
 <ol start="5">
 <li>输入企业账户信息，点击“激活”,提示激活成功。<mark>请注意不要有空格</mark></li>
 </ol>
-<img src="/imgs/JIHUO.png" width="500">
+<img src="http://doc.bzyxxcx.com/imgs/JIHUO.png" width="500">
 <ol start="6">
 <li>激活成功后，点击报告即可使用。</li>
 </ol>

@@ -6,6 +6,10 @@
 <li>如果您想了解问题的详细原因，可以阅读：<RouteLink to="/guide/white-pager.html">标准啄木鸟操作原理白皮书</RouteLink>。</li>
 </ul>
 </blockquote>
+<h3 id="环境要求-启用第三方插件" tabindex="-1"><a class="header-anchor" href="#环境要求-启用第三方插件"><span>环境要求：启用第三方插件</span></a></h3>
+<p><mark>2024年9月WPS新调整默认不自动加载插件，为了方便使用，需手动开启。</mark></p>
+<p>操作方法：打开WPS，点击菜单栏中的“文件”-&gt;“选项”-&gt;“信任中心”-&gt;“信任中心设置”-&gt;“启用第三方插件”。</p>
+<p><img src="http://doc.bzyxxcx.com/imgs/启用第三方插件.png" alt=""></p>
 <h3 id="第一步-诊断修复" tabindex="-1"><a class="header-anchor" href="#第一步-诊断修复"><span>第一步：诊断修复</span></a></h3>
 <ol>
 <li>
@@ -52,7 +56,7 @@
 <p>注意：启用时，弹出的确认提醒，蓝色按钮是禁用，灰白色的才是启用。</p>
 </blockquote>
 <p><img src="http://doc.bzyxxcx.com/imgs/WPS加载项2.png" alt=""></p>
-<p><img src="/imgs/wps0.jpg" alt=""></p>
+<p><img src="http://doc.bzyxxcx.com/imgs/wps0.jpg" alt=""></p>
 <ol start="4">
 <li>查看是否已经解决，如未解决，您可以继续进行下一步。</li>
 </ol>

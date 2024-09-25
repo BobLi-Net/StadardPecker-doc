@@ -19,7 +19,7 @@
 <ol start="2">
 <li>如您没有账号，<a href="http://www.bzyxxcx.com/account/reg" target="_blank" rel="noopener noreferrer">点击这里直接进行注册<ExternalLinkIcon/></a> 或<RouteLink to="/guide/usage.html#%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E8%B4%A6%E6%88%B7">了解如何进行注册？</RouteLink></li>
 </ol>
-<p><img src="/imgs/login1.png" alt=""></p>
+<p><img src="http://doc.bzyxxcx.com/imgs/login1.png" alt=""></p>
 <ol start="3">
 <li>输入账号密码后点击登录，即可进入软件主界面。</li>
 </ol>

@@ -45,7 +45,7 @@
 <li>打开控“控制面板/程序/程序和功能” 找到“StandardPeckerWordAddIn”</li>
 <li>右键点击，选择“卸载”</li>
 <li>选择“是”即可卸载完成
-<img src="/imgs/xiezai1.png" alt=""></li>
+<img src="http://doc.bzyxxcx.com/imgs/xiezai1.png" alt=""></li>
 </ol>
 </div></template>
 

@@ -19,7 +19,7 @@
 
 2. 如您没有账号，[点击这里直接进行注册](http://www.bzyxxcx.com/account/reg) 或[了解如何进行注册？][注册账户]
 
-![](/imgs/login1.png)
+![](http://doc.bzyxxcx.com/imgs/login1.png)
 
 3. 输入账号密码后点击登录，即可进入软件主界面。 
 

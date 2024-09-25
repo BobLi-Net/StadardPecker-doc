@@ -19,8 +19,7 @@ export default defineUserConfig({
     }, 
     {
       text: '使用说明',
-      children: [        
-       
+      children: [       
         '/guide/setup.md',
         '/guide/usage.md',
         '/guide/user.md',
