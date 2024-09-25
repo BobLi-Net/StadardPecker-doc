@@ -104,12 +104,14 @@
 <p>在您确保已完成<RouteLink to="/guide/usage.html#%E7%AC%AC%E4%BA%8C%E6%AD%A5-%E7%99%BB%E5%BD%95">注册并登录</RouteLink>且已<RouteLink to="/guide/usage.html#%E7%AC%AC%E4%B8%89%E6%AD%A5-%E6%BF%80%E6%B4%BB">激活</RouteLink>当前设备后，即可开始使用啄木鸟了。</p>
 <h3 id="使用法规检查" tabindex="-1"><a class="header-anchor" href="#使用法规检查"><span>使用法规检查</span></a></h3>
 <ol>
-<li>
-<p>打开Word/WPS/CAD您将看到如图所示菜单中已增加标准啄木鸟功能。<RouteLink to="/faq/">如未出现请点击这里查看可能遇到的问题</RouteLink></p>
-</li>
-<li>
-<p>点击“法规查询”按钮，<mark>注意，我们对法规书写格式有一定的要求！</mark></p>
-</li>
+<li>打开Word/WPS/CAD您将看到如图所示菜单中已增加标准啄木鸟功能。<RouteLink to="/faq/">如未出现请点击这里查看可能遇到的问题</RouteLink></li>
+</ol>
+<blockquote>
+<p>2024年9月WPS新调整默认不自动加载插件，为了方便使用，需手动开启。
+操作方法：打开WPS，点击菜单栏中的“文件”-&gt;“选项”-&gt;“信任中心”-&gt;“信任中心设置”-&gt;“启用第三方插件”。</p>
+</blockquote>
+<ol start="2">
+<li>点击“法规查询”按钮，<mark>注意，我们对法规书写格式有一定的要求！</mark></li>
 </ol>
 <p><img src="http://doc.bzyxxcx.com/imgs/法规检查1.png" alt=""></p>
 <ol start="3">

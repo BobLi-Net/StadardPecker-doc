@@ -31,13 +31,21 @@
 <p><mark>主界面仅用于登录、授权等，日常使用无需打开主程序，直接打开Word/WPS/CAD文档通过菜单操作即可</mark></p>
 <h2 id="第四步-开始使用" tabindex="-1"><a class="header-anchor" href="#第四步-开始使用"><span>第四步：开始使用</span></a></h2>
 <ol>
-<li>打开任意Word/WPS/CAD文档，可以从菜单栏中找到看到“标准啄木鸟”字样的菜单项。没有出现菜单请点击参考<RouteLink to="/faq/word.html">常见问题</RouteLink></li>
+<li>
+<p>打开任意Word/WPS/CAD文档，可以从菜单栏中找到看到“标准啄木鸟”字样的菜单项。没有出现菜单请点击参考<RouteLink to="/faq/word.html">常见问题</RouteLink>
+<img src="http://doc.bzyxxcx.com/imgs/插件菜单.png" alt=""></p>
+</li>
+<li>
+<p>点击标准检查、法规检查、或法规查询即可使用本软件。</p>
+</li>
+<li>
+<p>您可以在结果窗口中进行，分类筛选、排序、调整列宽等操作以获得更佳体验。</p>
+</li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/插件菜单.png" alt=""></p>
-<ol start="2">
-<li>点击标准检查、法规检查、或法规查询即可使用本软件。</li>
-<li>您可以在结果窗口中进行，分类筛选、排序、调整列宽等操作以获得更佳体验。</li>
-</ol>
+<blockquote>
+<p><mark>2024年9月WPS新调整默认不自动加载插件，为了方便使用，需手动开启。</mark>
+操作方法：打开WPS，点击菜单栏中的“文件”-&gt;“选项”-&gt;“信任中心”-&gt;“信任中心设置”-&gt;“启用第三方插件”。</p>
+</blockquote>
 </div></template>
 
 
