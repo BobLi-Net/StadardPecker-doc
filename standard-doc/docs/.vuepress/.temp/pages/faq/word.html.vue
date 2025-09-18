@@ -15,11 +15,11 @@
 <p>如需登录，<RouteLink to="/guide/usage.html#%E7%AC%AC%E4%BA%8C%E6%AD%A5-%E7%99%BB%E5%BD%95">请先登录</RouteLink>。</p>
 </li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/主界面介绍.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/主界面介绍.png" alt=""></p>
 <ol start="2">
 <li>点击界面中的诊断修复-&gt;确认重置,得到“激活完成”结果。</li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/激活完成.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/激活完成.png" alt=""></p>
 <blockquote>
 <p><strong>↓↓↓ 如未激活成功，请根据提示参考 ↓↓↓</strong></p>
 <ul>
@@ -46,11 +46,11 @@
 <ol start="2">
 <li>确认插件处在非活动区域，如果插件在已禁用请跳转至<RouteLink to="/faq/word.html#%E8%A1%A5%E5%85%851-%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4%E6%8F%92%E4%BB%B6%E7%A6%81%E7%94%A8">如何解除插件禁用</RouteLink></li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/word选项.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/word选项.png" alt=""></p>
 <ol start="3">
 <li>选择Com加载项，点击转到即可打开如图窗口，勾选并确认</li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/word选项2.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/word选项2.png" alt=""></p>
 <ol start="4">
 <li>查看是否已经解决，如未解决，您可以继续进行下一步。</li>
 </ol>
@@ -59,7 +59,7 @@
 <li>下载“微软常用运行库合集”<a href="https://zhuomuniao-1316338950.cos.ap-beijing.myqcloud.com/weiruanheji.exe" target="_blank" rel="noopener noreferrer">下载地址<ExternalLinkIcon/></a></li>
 <li>安装运行库，注意选择最后一项。</li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/运行库合集.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/运行库合集.png" alt=""></p>
 <blockquote>
 <p>运行库合集由第三方提供，其包含的组件均为微软官方组件,请放心使用。</p>
 </blockquote>
@@ -98,9 +98,9 @@
 <p>选中我们的插件“StandardPeckerWordAddIn”点击启用</p>
 </li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/word选项3.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/word选项3.png" alt=""></p>
 <h2 id="提示-请重新登录" tabindex="-1"><a class="header-anchor" href="#提示-请重新登录"><span>提示“请重新登录”</span></a></h2>
-<p><img src="http://doc.bzyxxcx.com/imgs/重新登录.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/重新登录.png" alt=""></p>
 <ul>
 <li>为了确保信息安全，您的登录状态最长会保留7天，超过7天，请重新登录。</li>
 <li>登录步骤请参考<RouteLink to="/guide/login.html">如何登录</RouteLink></li>

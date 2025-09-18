@@ -8,7 +8,7 @@ export default defineUserConfig({
   description: '操作说明/使用文档/常见问题',
 
   theme: defaultTheme({
-    logo: 'http://www.bzyxxcx.com/logo_.png',
+    logo: 'http://www.biaowuyou.com/logo_.png',
     navbar: [{
       text: '首页',
       link: '/',

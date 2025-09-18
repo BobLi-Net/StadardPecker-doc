@@ -10,15 +10,15 @@
 
  1. 通过桌面快捷方式运行程序.
 
-![](http://doc.bzyxxcx.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
+![](http://help.biaowuyou.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
 
  2. 使用微信扫码登录界面二维码
 
-<img src="http://doc.bzyxxcx.com/imgs/登录1.png" width="500"> 
+<img src="http://help.biaowuyou.com/imgs/登录1.png" width="500"> 
 
  3. 关注公众号并点击“没有账户，注册新用户” 
 
-<img src="http://doc.bzyxxcx.com/imgs/微信注册.jpg" width="500"> 
+<img src="http://help.biaowuyou.com/imgs/微信注册.jpg" width="500"> 
  
  4. 根据提示输入手机号等个人信息并点击“注册新用户”
  
@@ -26,13 +26,13 @@
  
 ### 网站注册
 
-1. 打开[官方网站](http://www.bzyxxcx.com)，点击“[用户登录/注册](http://www.bzyxxcx.com/account/login)” 
-2. 点击“[没有账户快速注册](http://www.bzyxxcx.com/account/reg)”
-![](http://doc.bzyxxcx.com/imgs/wzzc.png)
+1. 打开[官方网站](http://www.biaowuyou.com)，点击“[用户登录/注册](http://www.biaowuyou.com/account/login)” 
+2. 点击“[没有账户快速注册](http://www.biaowuyou.com/account/reg)”
+![](http://help.biaowuyou.com/imgs/wzzc.png)
 3. 根据提示输入手机号等个人信息并点击“马上注册”
 4. 注册成功后，通过桌面快捷方式打开“啄木鸟主程序”通过账号密码方式登录。
 
-<img src="http://doc.bzyxxcx.com/imgs/登录2.png" width="500"> 
+<img src="http://help.biaowuyou.com/imgs/登录2.png" width="500"> 
 
 
 ## 第二步：登录
@@ -42,15 +42,15 @@
 1. 首先您需要确保已有账户，如您还没有账户请参照[微信扫码注册]步骤。
 2.  点击桌面啄木鸟红色图标，即可打开软件登录界面。
 
-![](http://doc.bzyxxcx.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
+![](http://help.biaowuyou.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
 
 3. 通过微信扫码界面中的二维码，扫描后即可登录。
 
-<img src="http://doc.bzyxxcx.com/imgs/登录1.png" width="500">
+<img src="http://help.biaowuyou.com/imgs/登录1.png" width="500">
 
 4. 如果您的账号没有绑定二维码，请参照下图完成账号绑定。
 
-<img src="http://doc.bzyxxcx.com/imgs/bdwx.png" width="500">
+<img src="http://help.biaowuyou.com/imgs/bdwx.png" width="500">
 
 5. 注册成功后，通过桌面快捷方式打开“啄木鸟主程序”再次尝试登录。
 
@@ -59,12 +59,12 @@
 1. 首先您需要确保已有账户，如您还没有账户请参照[微信扫码注册]步骤。
 2.  点击桌面啄木鸟红色图标，即可打开软件登录界面。
 
-![](http://doc.bzyxxcx.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
+![](http://help.biaowuyou.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
 
 3. 输入账号密码，点击“登录”即可登录。
 [忘记密码请参考步骤。][重置密码]
 
-<img src="http://doc.bzyxxcx.com/imgs/登录2.png" width="500">
+<img src="http://help.biaowuyou.com/imgs/登录2.png" width="500">
 
 ## 第三步：激活
 
@@ -72,16 +72,16 @@
  
 1. 点击桌面啄木鸟红色图标，打开软件登录界面。
 
-![](http://doc.bzyxxcx.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
+![](http://help.biaowuyou.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
 
 2. 使用个人账户登录软件，没有账户请参考[微信扫码注册]步骤。
 4. 点击“升级企业用户”
 
-![](http://doc.bzyxxcx.com/imgs/主界面介绍.png)
+![](http://help.biaowuyou.com/imgs/主界面介绍.png)
 
 5. 输入企业账户信息，点击“激活”,提示激活成功。<mark>请注意不要有空格</mark>
  
-<img src="http://doc.bzyxxcx.com/imgs/JIHUO.png" width="500">
+<img src="http://help.biaowuyou.com/imgs/JIHUO.png" width="500">
 
 6. 激活成功后，点击报告即可使用。
 
@@ -97,17 +97,17 @@
 
 1. 打开Word/WPS/CAD您将看到如图所示菜单中已增加标准啄木鸟功能。[如未出现请点击这里查看可能遇到的问题](/faq/)
 
-![](http://doc.bzyxxcx.com/imgs/插件菜单.png)
+![](http://help.biaowuyou.com/imgs/插件菜单.png)
 
 2. 点击“标准查询”按钮，弹出“查询设置”界面
 
-![](http://doc.bzyxxcx.com/imgs/chuangkou.png)
+![](http://help.biaowuyou.com/imgs/chuangkou.png)
  
 3. 点击开始检查，即可自动检查文档中的标准，检查结果将显示在下方窗口中
 
 ### 查看结果
 
-![](http://doc.bzyxxcx.com/imgs/查看结果.png) 
+![](http://help.biaowuyou.com/imgs/查看结果.png) 
 
 1. 点击“严重错误”、“一般错误”、“正确”等，可以对结果进行分类展示。
 1. 列宽可以通过鼠标拖动调整。
@@ -128,14 +128,14 @@
   
 2. 点击“法规查询”按钮，<mark>注意，我们对法规书写格式有一定的要求！</mark>
 
-![](http://doc.bzyxxcx.com/imgs/法规检查1.png)
+![](http://help.biaowuyou.com/imgs/法规检查1.png)
 
 
  
 3. 点击开始检查，即可自动检查文档中的法规，检查结果将显示在下方窗口中
 
 ### 查看结果
-![](http://doc.bzyxxcx.com/imgs/法规结果.png) 
+![](http://help.biaowuyou.com/imgs/法规结果.png) 
 1. 点击“异常”、“正确”等，可以对结果进行分类展示。
 1. 列宽可以通过鼠标拖动调整。
 2. 鼠标双击列名，即可对列进行排序。
@@ -151,9 +151,9 @@
 
 ### 使用标准检查
 
-1. 打开CAD您将看到如图所示菜单中已增加标准啄木鸟功能。[如未出现请点击这里查看可能遇到的问题](http://www.bzyxxcx.com/faq/index.html)
+1. 打开CAD您将看到如图所示菜单中已增加标准啄木鸟功能。[如未出现请点击这里查看可能遇到的问题](http://www.biaowuyou.com/faq/index.html)
 
-![](http://doc.bzyxxcx.com/imgs/插件菜单.png)
+![](http://help.biaowuyou.com/imgs/插件菜单.png)
 
 2. 操作过程参考[标准检查](/guide/usage.html#使用标准检查)
 

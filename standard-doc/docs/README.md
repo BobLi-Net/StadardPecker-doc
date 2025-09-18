@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: http://www.bzyxxcx.com/logo_.png
+heroImage: http://www.biaowuyou.com/logo_.png
 actions:
   - text: 快速上手
     link: /quikly-start 
@@ -16,7 +16,7 @@ actions:
     type: primary
 
   - text: 官方网站
-    link: http://www.bzyxxcx.com
+    link: http://www.biaowuyou.com
     type: secondary
 features:
   - title: 极致体验

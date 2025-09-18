@@ -2,7 +2,7 @@
 
 ## 重置密码
 
-1. [点击进入重置密码页面](http://www.bzyxxcx.com/account/resetpassword)。
+1. [点击进入重置密码页面](http://www.biaowuyou.com/account/resetpassword)。
 2. 根据提示输入相关信息，点击提交。
 3. 重置密码成功后，返回登录页面，输入新密码，点击登录。
 
@@ -12,10 +12,10 @@
 
 <mark>个人更换新电脑、更换硬件、操作系统重装等，均需要参考此处操作</mark>
  
-![](http://doc.bzyxxcx.com/imgs/管理设备.png)
+![](http://help.biaowuyou.com/imgs/管理设备.png)
 
-1. [点击进入官网](http://www.bzyxxcx.com/account/login)并登录。
-2. 点击右侧菜单中的“[我的设备](http://www.bzyxxcx.com/user/device)”可以查看已注册的设备
+1. [点击进入官网](http://www.biaowuyou.com/account/login)并登录。
+2. 点击右侧菜单中的“[我的设备](http://www.biaowuyou.com/user/device)”可以查看已注册的设备
 3. 您可以删除多余的设备，以便控制使用上限。
 
 <mark>每个人可以使用几台设备是由本企业管理员决定，我们仅控制全公司上限数量</mark>

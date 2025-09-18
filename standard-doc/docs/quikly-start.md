@@ -15,11 +15,11 @@
 
 1. 点击桌面啄木鸟红色图标，即可打开软件登录界面。
 
-![](http://doc.bzyxxcx.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
+![](http://help.biaowuyou.com/imgs/%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
 
-2. 如您没有账号，[点击这里直接进行注册](http://www.bzyxxcx.com/account/reg) 或[了解如何进行注册？][注册账户]
+2. 如您没有账号，[点击这里直接进行注册](http://www.biaowuyou.com/account/reg) 或[了解如何进行注册？][注册账户]
 
-![](http://doc.bzyxxcx.com/imgs/login1.png)
+![](http://help.biaowuyou.com/imgs/login1.png)
 
 3. 输入账号密码后点击登录，即可进入软件主界面。 
 
@@ -28,31 +28,31 @@
 [了解详细注册及登录步骤?][注册账户]
 ## 第三步：主界面介绍
  
-![](http://doc.bzyxxcx.com/imgs/主界面介绍.png)
+![](http://help.biaowuyou.com/imgs/主界面介绍.png)
 
 [了解如何获取企业授权?](/guide/usage.html#第三步-激活)
 
 <mark>主界面仅用于登录、授权等，日常使用无需打开主程序，直接打开Word/WPS/CAD文档通过菜单操作即可</mark>
 ## 第四步：开始使用
 1. 打开任意Word/WPS/CAD文档，可以从菜单栏中找到看到“标准啄木鸟”字样的菜单项。没有出现菜单请点击参考[常见问题]
-![](http://doc.bzyxxcx.com/imgs/插件菜单.png)
+![](http://help.biaowuyou.com/imgs/插件菜单.png)
 
 
 2. 点击标准检查、法规检查、或法规查询即可使用本软件。
 3. 您可以在结果窗口中进行，分类筛选、排序、调整列宽等操作以获得更佳体验。
  
 > <mark>2024年9月WPS新调整默认不自动加载插件，为了方便使用，需手动开启。</mark> 
-> 操作方法：打开WPS，点击菜单栏中的“文件”->“选项”->“信任中心”->“信任中心设置”->“启用第三方插件”。
+> 操作方法：打开WPS，点击菜单栏中的“文件”->“选项”->“信任中心”->“信任中心设置”->“启用第三方插件”（如无此功能可跳过这一步）。
  
 
  
  
 
-[官网下载]: http://www.bzyxxcx.com
+[官网下载]: http://www.biaowuyou.com
 [注册账户]: /guide/usage.html#第一步-注册账户
 [常见问题]: /faq/word.html
-[访问官网]: http://www.bzyxxcx.com
+[访问官网]: http://www.biaowuyou.com
 [详细安装]: /guide/setup.html
-[企业授权]: http://www.bzyxxcx.com/account
-[详细注册]: http://www.bzyxxcx.com/account
-[杀毒软件提示]: http://www.bzyxxcx.com/faq/
+[企业授权]: http://www.biaowuyou.com/account
+[详细注册]: http://www.biaowuyou.com/account
+[杀毒软件提示]: http://www.biaowuyou.com/faq/

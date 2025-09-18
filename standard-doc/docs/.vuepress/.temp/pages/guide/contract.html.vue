@@ -3,9 +3,9 @@
 <table>
 <thead>
 <tr>
-<th><img src="http://doc.bzyxxcx.com/imgs/wechat1.png" width="150"></th>
-<th><img src="http://doc.bzyxxcx.com/imgs/wechat2.png" width="150"></th>
-<th><img src="http://doc.bzyxxcx.com/imgs/gongzhonghao.png" width="150"></th>
+<th><img src="http://help.biaowuyou.com/imgs/wechat1.png" width="150"></th>
+<th><img src="http://help.biaowuyou.com/imgs/wechat2.png" width="150"></th>
+<th><img src="http://help.biaowuyou.com/imgs/gongzhonghao.png" width="150"></th>
 </tr>
 </thead>
 <tbody>
@@ -18,7 +18,7 @@
 </table>
 <ul>
 <li>邮箱：bzfgzmn#163.com （需要把#号更换成@号）</li>
-<li>官网：<a href="http://www.bzyxxcx.com" target="_blank" rel="noopener noreferrer">http://www.bzyxxcx.com<ExternalLinkIcon/></a></li>
+<li>官网：<a href="http://www.biaowuyou.com" target="_blank" rel="noopener noreferrer">http://www.biaowuyou.com<ExternalLinkIcon/></a></li>
 </ul>
 <h2 id="技术支持" tabindex="-1"><a class="header-anchor" href="#技术支持"><span>技术支持</span></a></h2>
 <p>请直接联系商务人员。</p>

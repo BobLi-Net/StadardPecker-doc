@@ -11,11 +11,11 @@
 
 2. 如需登录，[请先登录](/guide/usage.html#第二步-登录)。
 
-![](http://doc.bzyxxcx.com/imgs/主界面介绍.png)
+![](http://help.biaowuyou.com/imgs/主界面介绍.png)
 
 2. 点击界面中的诊断修复->确认重置,得到“激活完成”结果。
 
-![](http://doc.bzyxxcx.com/imgs/激活完成.png)
+![](http://help.biaowuyou.com/imgs/激活完成.png)
 
 > **↓↓↓ 如未激活成功，请根据提示参考 ↓↓↓**
 > - 提示“要使用此功能，请使用管理员身份启动程序”，解决办法请参考[如何以管理员身份启动](/faq/setup.html#以管理员身份打开程序)
@@ -37,11 +37,11 @@
 
 2. 确认插件处在非活动区域，如果插件在已禁用请跳转至[如何解除插件禁用](/faq/word.html#补充1-如何解除插件禁用)
 
-![](http://doc.bzyxxcx.com/imgs/word选项.png)
+![](http://help.biaowuyou.com/imgs/word选项.png)
 
 3. 选择Com加载项，点击转到即可打开如图窗口，勾选并确认
 
-![](http://doc.bzyxxcx.com/imgs/word选项2.png)
+![](http://help.biaowuyou.com/imgs/word选项2.png)
 
 4. 查看是否已经解决，如未解决，您可以继续进行下一步。
 
@@ -50,7 +50,7 @@
 1. 下载“微软常用运行库合集”[下载地址](https://zhuomuniao-1316338950.cos.ap-beijing.myqcloud.com/weiruanheji.exe)
 2. 安装运行库，注意选择最后一项。
 
-![](http://doc.bzyxxcx.com/imgs/运行库合集.png)
+![](http://help.biaowuyou.com/imgs/运行库合集.png)
 
 > 运行库合集由第三方提供，其包含的组件均为微软官方组件,请放心使用。
 3. 重启word，查看是否已经解决，如未解决，**请重新尝试第一步、第二步**。
@@ -80,12 +80,12 @@
 
 3. 选中我们的插件“StandardPeckerWordAddIn”点击启用
 
-![](http://doc.bzyxxcx.com/imgs/word选项3.png)
+![](http://help.biaowuyou.com/imgs/word选项3.png)
 
 
 ## 提示“请重新登录”
 
-![](http://doc.bzyxxcx.com/imgs/重新登录.png)
+![](http://help.biaowuyou.com/imgs/重新登录.png)
 
 - 为了确保信息安全，您的登录状态最长会保留7天，超过7天，请重新登录。
 - 登录步骤请参考[如何登录](/guide/login.html)

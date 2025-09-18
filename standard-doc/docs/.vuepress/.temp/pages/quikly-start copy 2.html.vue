@@ -2,17 +2,17 @@
 <p>通过本页面您可以快速了解啄木鸟标准法规审查软件，并开始使用它。</p>
 <h2 id="第一步-安装" tabindex="-1"><a class="header-anchor" href="#第一步-安装"><span>第一步：安装</span></a></h2>
 <ol>
-<li>通过<a href="http://www.bzyxxcx.com" target="_blank" rel="noopener noreferrer">官网下载<ExternalLinkIcon/></a>安装程序，双击安装，根据提示完成即可。</li>
-<li>请注意安装过程如遇杀毒软件提醒屏蔽，<a href="http://www.bzyxxcx.com/faq/" target="_blank" rel="noopener noreferrer">请务必选择允许。<ExternalLinkIcon/></a></li>
+<li>通过<a href="http://www.biaowuyou.com" target="_blank" rel="noopener noreferrer">官网下载<ExternalLinkIcon/></a>安装程序，双击安装，根据提示完成即可。</li>
+<li>请注意安装过程如遇杀毒软件提醒屏蔽，<a href="http://www.biaowuyou.com/faq/" target="_blank" rel="noopener noreferrer">请务必选择允许。<ExternalLinkIcon/></a></li>
 </ol>
-<p><a href="http://www.bzyxxcx.com" target="_blank" rel="noopener noreferrer">了解详细安装步骤?<ExternalLinkIcon/></a></p>
+<p><a href="http://www.biaowuyou.com" target="_blank" rel="noopener noreferrer">了解详细安装步骤?<ExternalLinkIcon/></a></p>
 <h2 id="第二步-运行-登录" tabindex="-1"><a class="header-anchor" href="#第二步-运行-登录"><span>第二步：运行/登录</span></a></h2>
 <ol>
 <li>点击桌面啄木鸟红色图标，即可打开软件登录界面。</li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/桌面图标.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/桌面图标.png" alt=""></p>
 <ol start="2">
-<li>如您没有账号，<a href="http://www.bzyxxcx.com/account/reg" target="_blank" rel="noopener noreferrer">点击这里直接进行注册<ExternalLinkIcon/></a> 或<RouteLink to="/guide/usage.html#%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E8%B4%A6%E6%88%B7">了解如何进行注册？</RouteLink></li>
+<li>如您没有账号，<a href="http://www.biaowuyou.com/account/reg" target="_blank" rel="noopener noreferrer">点击这里直接进行注册<ExternalLinkIcon/></a> 或<RouteLink to="/guide/usage.html#%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E8%B4%A6%E6%88%B7">了解如何进行注册？</RouteLink></li>
 </ol>
 <p><img src="/imgs/登录说明.png" alt=""></p>
 <ol start="3">
@@ -21,14 +21,14 @@
 <p><RouteLink to="/faq/">遇到问题？不要着急，点击这里查看有没有解决方法</RouteLink></p>
 <p><RouteLink to="/guide/usage.html#%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E8%B4%A6%E6%88%B7">了解详细注册及登录步骤?</RouteLink></p>
 <h2 id="第三步-主界面介绍" tabindex="-1"><a class="header-anchor" href="#第三步-主界面介绍"><span>第三步：主界面介绍</span></a></h2>
-<p><img src="http://doc.bzyxxcx.com/imgs/主界面介绍.png" alt=""></p>
-<p><a href="http://www.bzyxxcx.com/account" target="_blank" rel="noopener noreferrer">了解如何获取企业授权?<ExternalLinkIcon/></a></p>
+<p><img src="http://help.biaowuyou.com/imgs/主界面介绍.png" alt=""></p>
+<p><a href="http://www.biaowuyou.com/account" target="_blank" rel="noopener noreferrer">了解如何获取企业授权?<ExternalLinkIcon/></a></p>
 <p><mark>主界面仅用于登录、授权等，日常使用无需打开主程序，直接打开报告或图纸通过菜单操作即可</mark></p>
 <h2 id="第四步-开始使用" tabindex="-1"><a class="header-anchor" href="#第四步-开始使用"><span>第四步：开始使用</span></a></h2>
 <ol>
 <li>打开任意报告或CAD图纸，可以从菜单栏中找到看到“标准啄木鸟”字样的菜单项。没有出现菜单请点击参考<RouteLink to="/faq/">常见问题</RouteLink></li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/插件菜单.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/插件菜单.png" alt=""></p>
 <ol start="2">
 <li>点击标准检查、法规检查、或法规查询即可使用本软件。</li>
 <li>您可以在结果窗口中进行，分类筛选、排序、调整列宽等操作以获得更佳体验。</li>

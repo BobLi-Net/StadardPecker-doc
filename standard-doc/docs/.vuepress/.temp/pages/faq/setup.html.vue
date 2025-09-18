@@ -3,7 +3,7 @@
 <ul>
 <li>通过在快捷放上上面点击右键，从菜单中选择以管理员身份打开即可。</li>
 </ul>
-<p><img src="http://doc.bzyxxcx.com/imgs/管理员打开.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/管理员打开.png" alt=""></p>
 <h2 id="双击无法运行-不出现登录界面或主界面" tabindex="-1"><a class="header-anchor" href="#双击无法运行-不出现登录界面或主界面"><span>双击无法运行，不出现登录界面或主界面</span></a></h2>
 <p>请尝试以下几个方面解决：</p>
 <ol>

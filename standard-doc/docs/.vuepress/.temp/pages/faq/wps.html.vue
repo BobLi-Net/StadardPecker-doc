@@ -9,7 +9,7 @@
 <h3 id="环境要求-启用第三方插件" tabindex="-1"><a class="header-anchor" href="#环境要求-启用第三方插件"><span>环境要求：启用第三方插件</span></a></h3>
 <p><mark>2024年9月WPS新调整默认不自动加载插件，为了方便使用，需手动开启。</mark></p>
 <p>操作方法：打开WPS，点击菜单栏中的“文件”-&gt;“选项”-&gt;“信任中心”-&gt;“信任中心设置”-&gt;“启用第三方插件”。</p>
-<p><img src="http://doc.bzyxxcx.com/imgs/启用第三方插件.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/启用第三方插件.png" alt=""></p>
 <h3 id="第一步-诊断修复" tabindex="-1"><a class="header-anchor" href="#第一步-诊断修复"><span>第一步：诊断修复</span></a></h3>
 <ol>
 <li>
@@ -19,11 +19,11 @@
 <p>如需登录，<RouteLink to="/guide/usage.html#%E7%AC%AC%E4%BA%8C%E6%AD%A5-%E7%99%BB%E5%BD%95">请先登录</RouteLink>。</p>
 </li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/主界面介绍.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/主界面介绍.png" alt=""></p>
 <ol start="2">
 <li>点击界面中的诊断修复-&gt;确认重置,得到“激活完成”结果。</li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/激活完成.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/激活完成.png" alt=""></p>
 <blockquote>
 <p><strong>↓↓↓ 如未激活成功，请根据提示参考 ↓↓↓</strong></p>
 <ul>
@@ -47,7 +47,7 @@
 <blockquote>
 <p>WPS版本差异，可能菜单位置不同，但基本一致</p>
 </blockquote>
-<p><img src="http://doc.bzyxxcx.com/imgs/WPS加载项.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/WPS加载项.png" alt=""></p>
 <ol start="2">
 <li>如果插件“StandardPeckerWordAddIn”处在未勾选状态，请勾选，然后点击确定。</li>
 <li><strong>如插件未在列表中</strong>，查看是否如下图所示，有禁用插件，如存在则点击“进行管理”链接，并选中“StandardPeckerWordAddIn”点击“启用”。</li>
@@ -55,8 +55,8 @@
 <blockquote>
 <p>注意：启用时，弹出的确认提醒，蓝色按钮是禁用，灰白色的才是启用。</p>
 </blockquote>
-<p><img src="http://doc.bzyxxcx.com/imgs/WPS加载项2.png" alt=""></p>
-<p><img src="http://doc.bzyxxcx.com/imgs/wps0.jpg" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/WPS加载项2.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/wps0.jpg" alt=""></p>
 <ol start="4">
 <li>查看是否已经解决，如未解决，您可以继续进行下一步。</li>
 </ol>
@@ -65,7 +65,7 @@
 <li>下载“微软常用运行库合集”<a href="https://zhuomuniao-1316338950.cos.ap-beijing.myqcloud.com/weiruanheji.exe" target="_blank" rel="noopener noreferrer">下载地址<ExternalLinkIcon/></a></li>
 <li>安装运行库，注意选择最后一项。</li>
 </ol>
-<p><img src="http://doc.bzyxxcx.com/imgs/运行库合集.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/运行库合集.png" alt=""></p>
 <blockquote>
 <p>运行库合集由第三方提供，其包含的组件均为微软官方组件,请放心使用。</p>
 </blockquote>
@@ -93,7 +93,7 @@
 <li>重新安装。请参考：<RouteLink to="/guide/setup.html#%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F">如何安装</RouteLink></li>
 </ol>
 <h2 id="提示-请重新登录" tabindex="-1"><a class="header-anchor" href="#提示-请重新登录"><span>提示“请重新登录”</span></a></h2>
-<p><img src="http://doc.bzyxxcx.com/imgs/重新登录.png" alt=""></p>
+<p><img src="http://help.biaowuyou.com/imgs/重新登录.png" alt=""></p>
 <ul>
 <li>为了确保信息安装，您的登录状态最长会保留7天，超过7天，请重新登录。</li>
 <li>登录步骤请参考<RouteLink to="/guide/login.html">如何登录</RouteLink></li>
